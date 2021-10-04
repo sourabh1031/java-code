@@ -12,7 +12,8 @@ public class Collectionsorting
 		al.add(20); 
 		al.add(10); 
 		al.add(40); 
-		al.add(50); 
+		al.add(50);
+		al.add(60);
 
 		/* Collections.sort method is sorting the 
 		elements of ArrayList in descending order. */
